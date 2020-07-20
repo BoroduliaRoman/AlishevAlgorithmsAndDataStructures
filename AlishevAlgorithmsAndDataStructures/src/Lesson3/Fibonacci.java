@@ -53,3 +53,5 @@ public class Fibonacci {
 // x
 // 1000y
 // (1/1.000.000) * 2^1000 * y
+
+// O(n) + O(1) + O(1) + O(n) + O(1) = O(2n) + O(3) = O(2n + 3) = On
